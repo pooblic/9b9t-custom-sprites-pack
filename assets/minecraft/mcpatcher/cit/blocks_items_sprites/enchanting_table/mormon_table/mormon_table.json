@@ -1,7 +1,7 @@
 {   "parent": "block/block",
     "textures": {
         "particle": "mcpatcher/ctm/enchanting_table/mormon_table/mormon_table_bottom",
-        "bottom": "mcpatcher/ctm/enchanting_table/mormon_tables/mormon_table_bottom",
+        "bottom": "mcpatcher/ctm/enchanting_table/mormon_table/mormon_table_bottom",
         "top": "mcpatcher/ctm/enchanting_table/mormon_table/mormon_table_top",
         "side": "mcpatcher/ctm/enchanting_table/mormon_table/mormon_table_side"
     },

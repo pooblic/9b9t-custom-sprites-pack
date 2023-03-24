@@ -1,7 +1,5 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "mcpatcher/ctm/enchanting_table/default_enchanting_table_bottom",
-        "bottom": "mcpatcher/ctm/enchanting_table/default_enchanting_table_bottom",
         "top": "mcpatcher/ctm/enchanting_table/creeper_rug/creeper_rug_top",
         "side": "mcpatcher/ctm/enchanting_table/creeper_rug/creeper_rug_side"
     },
