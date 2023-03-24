@@ -1,9 +1,5 @@
 {
   "parent": "item/wooden_sword",
-  "textures": {
-  "layer0": "item/wooden_estoc"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

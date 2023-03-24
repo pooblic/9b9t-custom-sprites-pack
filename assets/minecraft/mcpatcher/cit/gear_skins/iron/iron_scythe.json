@@ -1,9 +1,5 @@
 {
   "parent": "item/iron_hoe",
-  "textures": {
-  "layer0": "item/iron_scythe"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

@@ -1,9 +1,5 @@
 {
   "parent": "item/stone_axe",
-  "textures": {
-  "layer0": "item/stone_great_double_axe"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

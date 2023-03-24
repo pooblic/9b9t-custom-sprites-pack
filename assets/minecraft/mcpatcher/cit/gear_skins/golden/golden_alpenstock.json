@@ -1,9 +1,5 @@
 {
   "parent": "item/golden_sword",
-  "textures": {
-  "layer0": "item/golden_alpenstock"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

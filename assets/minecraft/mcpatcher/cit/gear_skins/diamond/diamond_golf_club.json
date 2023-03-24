@@ -1,9 +1,5 @@
 {
   "parent": "item/diamond_sword",
-  "textures": {
-  "layer0": "item/diamond_golf_club"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

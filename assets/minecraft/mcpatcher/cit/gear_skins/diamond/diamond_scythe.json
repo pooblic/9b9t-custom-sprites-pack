@@ -1,9 +1,5 @@
 {
   "parent": "item/diamond_hoe",
-  "textures": {
-  "layer0": "item/diamond_scythe"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

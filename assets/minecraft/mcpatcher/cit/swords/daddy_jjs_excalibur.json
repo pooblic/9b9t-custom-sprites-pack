@@ -1,9 +1,5 @@
 {
   "parent": "item/diamond_sword",
-  "textures": {
-  "layer0": "item/daddy_jjs_excalibur"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

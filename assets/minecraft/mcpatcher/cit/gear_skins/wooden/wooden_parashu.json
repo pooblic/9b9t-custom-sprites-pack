@@ -1,9 +1,5 @@
 {
   "parent": "item/wooden_axe",
-  "textures": {
-  "layer0": "item/wooden_parashu"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

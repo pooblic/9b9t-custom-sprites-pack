@@ -1,9 +1,5 @@
 {
   "parent": "item/iron_sword",
-  "textures": {
-  "layer0": "item/iron_penis"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],

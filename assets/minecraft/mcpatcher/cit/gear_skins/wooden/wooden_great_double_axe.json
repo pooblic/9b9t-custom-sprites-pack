@@ -1,9 +1,5 @@
 {
   "parent": "item/wooden_axe",
-  "textures": {
-  "layer0": "item/wooden_great_double_axe"
-
-},
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 0, -90, 55 ],
